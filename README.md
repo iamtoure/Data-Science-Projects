@@ -1,1 +1,1 @@
-# Data-Science-Guided-Projects
+# Data-Science-Projects
